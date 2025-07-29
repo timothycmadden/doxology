@@ -2,3 +2,7 @@ body {
     background: rgb(235, 218, 143);
     font-family: 'Urbanist', sans-serif;
 }
+
+h1 {
+    font-size: 3rem;
+}
